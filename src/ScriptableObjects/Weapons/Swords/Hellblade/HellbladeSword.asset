@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99d7f55bf599d8e4085b41f59384ae8f, type: 3}
+  m_Name: HellbladeSword
+  m_EditorClassIdentifier: 
+  Name: Hellblade Ultimate
+  Prefab: {fileID: 100000, guid: 5f61173bbed2ee642ab96a813d31bfbe, type: 2}
+  GripTransform: {fileID: 4531754280766612, guid: 60fc2442a8b52c548a8e5ab8a3709f1e,
+    type: 2}
+  Price: 1000
+  Image: {fileID: 2800000, guid: 08a35e0c7b6c990439eec7aa7d862a4d, type: 3}
+  MinDamage: 100
+  MaxDamage: 250

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5fb5301812d8dd429eb26a35b52488e, type: 3}
+  m_Name: PaladinFrontSlash
+  m_EditorClassIdentifier: 
+  KeyOnPress: 50
+  ID: 5002
+  SkillType: 2
+  Name: Front AoE Swing
+  Description: Warrior stops and does a frontal swing and hits multiple target. AoE
+    Skill
+  Level: 0
+  Icon: {fileID: 21300000, guid: 240a76beb9e78674a8657b994754d22f, type: 3}
+  Sound: {fileID: 0}
+  Cooldown: 5
+  MinDamage: 10
+  MaxDamage: 50
+  NeedTarget: 0
