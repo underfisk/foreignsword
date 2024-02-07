@@ -1,5 +1,3 @@
-#Private repository soon to be updated
+## Description
 
-## version 1.0.0
-## author : Rodrigo
-## package: unityrpg
+A unity diablo rpg-like experimental game while playing around with Post-processing and challenging myself to develop some RPG mechanics
